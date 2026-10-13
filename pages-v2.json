@@ -1,0 +1,488 @@
+[
+  {
+    "key": "cover",
+    "name": "cover-0",
+    "width": 1920,
+    "height": 1080,
+    "y": 0,
+    "order": 0,
+    "asset": "cover-0-v2"
+  },
+  {
+    "key": "contents",
+    "name": "contents-0",
+    "width": 1920,
+    "height": 1080,
+    "y": 1080,
+    "order": 0,
+    "asset": "contents-0-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-0a",
+    "width": 1920,
+    "height": 1080,
+    "y": 2160,
+    "order": 0,
+    "asset": "validation-0a-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-0bx",
+    "width": 1920,
+    "height": 540,
+    "y": 3240,
+    "order": 1,
+    "asset": "validation-0bx-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-0by",
+    "width": 1920,
+    "height": 540,
+    "y": 3780,
+    "order": 2,
+    "asset": "validation-0by-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-1",
+    "width": 1920,
+    "height": 2160,
+    "y": 4320,
+    "order": 3,
+    "asset": "validation-1-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-2a",
+    "width": 1920,
+    "height": 1080,
+    "y": 6480,
+    "order": 4,
+    "asset": "validation-2a-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-2b",
+    "width": 1920,
+    "height": 1080,
+    "y": 7560,
+    "order": 5,
+    "asset": "validation-2b-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-3",
+    "width": 1920,
+    "height": 2160,
+    "y": 8640,
+    "order": 6,
+    "asset": "validation-3-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-4",
+    "width": 1920,
+    "height": 2160,
+    "y": 10800,
+    "order": 7,
+    "asset": "validation-4-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-5x",
+    "width": 1920,
+    "height": 1080,
+    "y": 12960,
+    "order": 8,
+    "asset": "validation-5x-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-5y",
+    "width": 1920,
+    "height": 1080,
+    "y": 14040,
+    "order": 9,
+    "asset": "validation-5y-v2"
+  },
+  {
+    "key": "validation",
+    "name": "validation-6",
+    "width": 1920,
+    "height": 1080,
+    "y": 15120,
+    "order": 10,
+    "asset": "validation-6-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-0a",
+    "width": 1920,
+    "height": 1080,
+    "y": 16200,
+    "order": 0,
+    "asset": "autoclaw-0a-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-0b",
+    "width": 1920,
+    "height": 1080,
+    "y": 17280,
+    "order": 1,
+    "asset": "autoclaw-0b-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-1a",
+    "width": 1920,
+    "height": 1080,
+    "y": 18360,
+    "order": 2,
+    "asset": "autoclaw-1a-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-1b",
+    "width": 1920,
+    "height": 1080,
+    "y": 19440,
+    "order": 3,
+    "asset": "autoclaw-1b-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-2a",
+    "width": 1920,
+    "height": 1080,
+    "y": 20520,
+    "order": 4,
+    "asset": "autoclaw-2a-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-2b",
+    "width": 1920,
+    "height": 1080,
+    "y": 21600,
+    "order": 5,
+    "asset": "autoclaw-2b-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-3a",
+    "width": 1920,
+    "height": 1080,
+    "y": 22680,
+    "order": 6,
+    "asset": "autoclaw-3a-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-3b",
+    "width": 1920,
+    "height": 1080,
+    "y": 23760,
+    "order": 7,
+    "asset": "autoclaw-3b-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-4a",
+    "width": 1920,
+    "height": 1080,
+    "y": 24840,
+    "order": 8,
+    "asset": "autoclaw-4a-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-4b",
+    "width": 1920,
+    "height": 1080,
+    "y": 25920,
+    "order": 9,
+    "asset": "autoclaw-4b-v2"
+  },
+  {
+    "key": "autoclaw",
+    "name": "autoclaw-5",
+    "width": 1920,
+    "height": 690,
+    "y": 27000,
+    "order": 10,
+    "asset": "autoclaw-5-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-0a",
+    "width": 1920,
+    "height": 1080,
+    "y": 27690,
+    "order": 0,
+    "asset": "car-assistant-0a-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-0bx",
+    "width": 1920,
+    "height": 540,
+    "y": 28770,
+    "order": 1,
+    "asset": "car-assistant-0bx-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-0by",
+    "width": 1920,
+    "height": 540,
+    "y": 29310,
+    "order": 2,
+    "asset": "car-assistant-0by-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-1a",
+    "width": 1920,
+    "height": 1080,
+    "y": 29850,
+    "order": 3,
+    "asset": "car-assistant-1a-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-1b",
+    "width": 1920,
+    "height": 1080,
+    "y": 30930,
+    "order": 4,
+    "asset": "car-assistant-1b-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-2a",
+    "width": 1920,
+    "height": 1080,
+    "y": 32010,
+    "order": 5,
+    "asset": "car-assistant-2a-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-2b",
+    "width": 1920,
+    "height": 1080,
+    "y": 33090,
+    "order": 6,
+    "asset": "car-assistant-2b-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-3a",
+    "width": 1920,
+    "height": 1080,
+    "y": 34170,
+    "order": 7,
+    "asset": "car-assistant-3a-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-3b",
+    "width": 1920,
+    "height": 1080,
+    "y": 35250,
+    "order": 8,
+    "asset": "car-assistant-3b-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-4a",
+    "width": 1920,
+    "height": 1080,
+    "y": 36330,
+    "order": 9,
+    "asset": "car-assistant-4a-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-4b",
+    "width": 1920,
+    "height": 1080,
+    "y": 37410,
+    "order": 10,
+    "asset": "car-assistant-4b-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-5a",
+    "width": 1920,
+    "height": 1080,
+    "y": 38490,
+    "order": 11,
+    "asset": "car-assistant-5a-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-5b",
+    "width": 1920,
+    "height": 1080,
+    "y": 39570,
+    "order": 12,
+    "asset": "car-assistant-5b-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-6x",
+    "width": 1920,
+    "height": 540,
+    "y": 40650,
+    "order": 13,
+    "asset": "car-assistant-6x-v2"
+  },
+  {
+    "key": "car-assistant",
+    "name": "car-assistant-6y",
+    "width": 1920,
+    "height": 540,
+    "y": 41190,
+    "order": 14,
+    "asset": "car-assistant-6y-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-0a",
+    "width": 1920,
+    "height": 1080,
+    "y": 41730,
+    "order": 0,
+    "asset": "portrait-0a-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-0b",
+    "width": 1920,
+    "height": 1080,
+    "y": 42810,
+    "order": 1,
+    "asset": "portrait-0b-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-1a",
+    "width": 1920,
+    "height": 1080,
+    "y": 43890,
+    "order": 2,
+    "asset": "portrait-1a-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-1b",
+    "width": 1920,
+    "height": 1080,
+    "y": 44970,
+    "order": 3,
+    "asset": "portrait-1b-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-2a",
+    "width": 1920,
+    "height": 1080,
+    "y": 46050,
+    "order": 4,
+    "asset": "portrait-2a-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-2b",
+    "width": 1920,
+    "height": 1080,
+    "y": 47130,
+    "order": 5,
+    "asset": "portrait-2b-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-3a",
+    "width": 1920,
+    "height": 1080,
+    "y": 48210,
+    "order": 6,
+    "asset": "portrait-3a-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-3b",
+    "width": 1920,
+    "height": 1080,
+    "y": 49290,
+    "order": 7,
+    "asset": "portrait-3b-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-4a",
+    "width": 1920,
+    "height": 1080,
+    "y": 50370,
+    "order": 8,
+    "asset": "portrait-4a-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-4b",
+    "width": 1920,
+    "height": 1080,
+    "y": 51450,
+    "order": 9,
+    "asset": "portrait-4b-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-5a",
+    "width": 1920,
+    "height": 1080,
+    "y": 52530,
+    "order": 10,
+    "asset": "portrait-5a-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-5b",
+    "width": 1920,
+    "height": 1080,
+    "y": 53610,
+    "order": 11,
+    "asset": "portrait-5b-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-6a",
+    "width": 1920,
+    "height": 1080,
+    "y": 54690,
+    "order": 12,
+    "asset": "portrait-6a-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-6b",
+    "width": 1920,
+    "height": 1080,
+    "y": 55770,
+    "order": 13,
+    "asset": "portrait-6b-v2"
+  },
+  {
+    "key": "portrait",
+    "name": "portrait-7",
+    "width": 1920,
+    "height": 1080,
+    "y": 56850,
+    "order": 14,
+    "asset": "portrait-7-v2"
+  }
+]
