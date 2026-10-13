@@ -8,6 +8,8 @@
 
 ## GitHub Pages
 
-在仓库 Settings → Pages 中选择 Deploy from a branch，分支 `main`，目录 `/ (root)`，保存即可发布。
+发布来源为 GitHub Actions。`.github/workflows/pages.yml` 在 `main` 分支更新时自动校验并发布网页，也可以在 Actions 页面手动运行。
+
+发布内容包括 `index.html`、脚本、样式、页面数据与 `assets/`。无需安装依赖或执行构建。
 
 网站地址：https://alloyart.github.io/LIYI-P-portfolio/
